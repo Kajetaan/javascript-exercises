@@ -12,5 +12,6 @@ const repeatString = function (str, nmb) {
     return modified_str;
 };
 
+// a comment
 // Do not edit below this line
 module.exports = repeatString;
